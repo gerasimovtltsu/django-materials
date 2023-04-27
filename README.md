@@ -86,6 +86,8 @@
 
 [ru] Бекенд на Django - https://www.youtube.com/playlist?list=PLyaCd9XYVI9DiMvYl-8OdZk7ktc6NQWrb
 
+[ru] Django School - https://www.youtube.com/@DjangoSchool/videos
+
 ## Про ORM
 
 [ru] Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
