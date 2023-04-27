@@ -74,6 +74,8 @@
 # Полезные пакеты
 https://github.com/originalankur/awesome-django-admin - пакеты для модернизации админ панели
 
+https://evileg.com/ru/knowledge/django/ - подборка пакетов для Django для различных задач
+
 
 # Разное
 [ru] https://habr.com/ru/companies/vk/articles/328352/ - 10 основных ошибок, совершаемых Django-разработчиками
