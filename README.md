@@ -2,9 +2,14 @@
 # Список полезных материалов по Django
 
 # Документация
-https://django.fun/ru/docs/django/latest/
 
-https://docs.djangoproject.com/en/
+[en] https://docs.djangoproject.com/en/ - официальная документация Django
+
+[ru] https://django.fun/ru/docs/django/latest/ - копия официальной документации Django, но переведена на русский. Может запаздывать по версиям
+
+https://runebook.dev/ru/docs/django/ - тоже самое, что и предыдущее, так же запаздывает по версиям
+
+https://devdocs.io/django~4.2/ - копия документации, но с удобным поиском
 
 
 # Книги
