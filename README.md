@@ -87,10 +87,12 @@
 
 
 
-# Полезные пакеты
+# Пакеты
 [en] https://github.com/originalankur/awesome-django-admin - пакеты для модернизации админ панели
 
-[en] https://github.com/shahraizali/awesome-django - подборка пакетов для Django для различных задач
+[en] https://github.com/shahraizali/awesome-django - подборка пакетов Django для различных задач
+
+[en] https://djangopackages.org/ - Репозиторий готовых пакетов / приложений для Django
 
 
 # Разное
