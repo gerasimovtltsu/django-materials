@@ -45,6 +45,8 @@
 
 [ru] https://developer.mozilla.org/ru/docs/Learn/Server-side/Django - курс от Mozilla
 
+[en] https://learndjango.com/tutorials/ - много туториалов на различные кейсы 
+
 
 # Видео
 [ru] Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
