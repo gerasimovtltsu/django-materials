@@ -27,6 +27,8 @@
 
 [ru / en] https://translated.turbopages.org/proxy_u/en-ru.ru.228fe71a-644ab963-6ddb4ac5-74722d776562/https/simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html - Полное руководство для начинающих по Django (переведено через Yandex Translate)
 
+[ru] https://pythonclass.ru/django/ - самоучитель (база)
+
 
 # Курсы
 [ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
