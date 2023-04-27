@@ -99,6 +99,8 @@
 
 [en] https://djangopackages.org/ - Репозиторий готовых пакетов / приложений для Django
 
+[en] https://docs.sentry.io/platforms/python/guides/django/ - Sentry SDK. Отлавливает ошибки в проекте и показывает (нормально) где она и в чем проблема
+
 
 # Разное
 [ru] https://habr.com/ru/companies/vk/articles/328352/ - 10 основных ошибок, совершаемых Django-разработчиками
