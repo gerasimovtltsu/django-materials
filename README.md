@@ -25,7 +25,7 @@
 
 [ru] https://www.reg.ru/blog/shpargalka-po-python-dlya-django/ - краткое руководство к командами от reg ru
 
-[ru / en] https://translated.turbopages.org/proxy_u/en-ru.ru.228fe71a-644ab963-6ddb4ac5-74722d776562/https/simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html - Полное руководство для начинающих по Django (переведено через Yandex Translate)
+[en] https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ - Полное руководство для начинающих по Django
 
 [ru] https://pythonclass.ru/django/ - самоучитель (базовый уровень)
 
