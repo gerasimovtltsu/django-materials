@@ -7,9 +7,9 @@
 
 [ru] https://django.fun/ru/docs/django/latest/ - копия официальной документации Django, но переведена на русский. Может запаздывать по версиям
 
-https://runebook.dev/ru/docs/django/ - тоже самое, что и предыдущее, так же запаздывает по версиям
+[ru] https://runebook.dev/ru/docs/django/ - тоже самое, что и предыдущее, так же запаздывает по версиям
 
-https://devdocs.io/django~4.2/ - копия документации, но с удобным поиском
+[en] https://devdocs.io/django~4.2/ - копия документации, но с удобным поиском
 
 
 # Книги
@@ -22,6 +22,10 @@ https://devdocs.io/django~4.2/ - копия документации, но с у
 [ru] https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
 
 [ru] https://gist.github.com/stasyao/99376eb0cf0ad3599f9737c421b5210e - Работа с формами
+
+
+# Курсы
+[ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
 
 
 # Видео
