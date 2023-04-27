@@ -15,6 +15,7 @@ https://docs.djangoproject.com/en/
 
 # Статьи
 [ru] https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
+
 [ru] https://gist.github.com/stasyao/99376eb0cf0ad3599f9737c421b5210e - Работа с формами
 
 
