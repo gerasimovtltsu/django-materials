@@ -23,6 +23,8 @@
 
 [ru] https://gist.github.com/stasyao/99376eb0cf0ad3599f9737c421b5210e - Работа с формами
 
+[ru] https://www.reg.ru/blog/shpargalka-po-python-dlya-django/ - краткое руководство к командами от reg ru
+
 
 # Курсы
 [ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
