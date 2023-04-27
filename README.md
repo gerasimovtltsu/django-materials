@@ -67,6 +67,10 @@
 
 [ru] Технострим: Веб-технологии. Разработка на Django [Mail ru] - https://www.youtube.com/playlist?list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a
 
+[ru] Понять Django. Объясняю просто и с картинками - https://www.youtube.com/playlist?list=PLM7_-YH4Xx6cPMagFDj0tnvLxsqeTHvZ6
+
+[ru] Бекенд на Django - https://www.youtube.com/playlist?list=PLyaCd9XYVI9DiMvYl-8OdZk7ktc6NQWrb
+
 ## Про ORM
 
 [ru] Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
