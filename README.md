@@ -35,6 +35,8 @@
 
 [ru] https://tutorial.djangogirls.org/ru/ - переведенный туториал от Django Girls
 
+[ru] https://evileg.com/ru/knowledge/django/ - курс от evileg (многие материалы 5-6 летней давности, но до сих пор часть из них актуальна)
+
 
 # Видео
 [ru] Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
