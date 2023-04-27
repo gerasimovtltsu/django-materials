@@ -35,6 +35,8 @@
 
 [ru] https://webdevblog.ru/nastrojka-django-settings-luchshie-praktiki/ - Настройка Django Settings
 
+[en] https://medium.com/tag/django - огромное количество статей по Django
+
 
 # Курсы
 [ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
