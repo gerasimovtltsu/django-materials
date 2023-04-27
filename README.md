@@ -50,6 +50,11 @@
 [en] https://learndjango.com/tutorials/ - много туториалов на различные кейсы 
 
 
+# Справочники
+
+[ru] https://proglike.ru/directory/django
+
+
 # Видео
 [ru] Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
 
