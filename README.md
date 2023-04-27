@@ -17,6 +17,27 @@ https://github.com/YeasirArafatRatul/DjangoBooks
 [ru] https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
 
 
+# Видео
+[ru] https://www.youtube.com/watch?&v=BQQrR0_UVsE - Структура проекта, urls, views, как создать html-страницу
+
+[ru] https://www.youtube.com/watch?&v=-kvoStX713Q - Модель, Django-админка, сохранение данных в БД
+
+[ru] https://www.youtube.com/watch?&v=DBU0vQkiJgA - Настройка админки в Django + немного о моделях
+
+[ru] Верстка страницы, HTML и Bootstrap - https://www.youtube.com/watch?v=ZkICZB6STnM
+
+[ru] Добавление Django models - https://www.youtube.com/watch?v=YiWPWMJacPI
+
+[ru] Переопределение метода save - https://www.youtube.com/watch?&v=3wFpyKcVT_w
+
+[ru] Работы с шаблоном - https://www.youtube.com/watch?&v=PF1hh4ePcKI
+
+[ru] Запуск на Ubuntu ч. 1 - https://www.youtube.com/watch?v=zWziE0A8eLg
+
+[ru] Запуск на Ubuntu ч. 2 - https://www.youtube.com/watch?v=ln6wVQ2a8no
+
+
+
 
 # Полезные пакеты
 https://github.com/originalankur/awesome-django-admin - пакеты для модернизации админ панели
