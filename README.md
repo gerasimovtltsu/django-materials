@@ -35,7 +35,7 @@
 
 [ru] https://tutorial.djangogirls.org/ru/ - переведенный туториал от Django Girls
 
-[ru] https://evileg.com/ru/knowledge/django/ - курс от evileg (многие материалы 5-6 летней давности, но до сих пор часть из них актуальна)
+[ru] https://evileg.com/ru/knowledge/django/ - обновляемый курс от evileg (многие материалы 5-6 летней давности, но до сих пор часть из них актуальна)
 
 
 # Видео
