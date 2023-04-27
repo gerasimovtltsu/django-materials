@@ -1,7 +1,7 @@
 # Django Materials ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # Список полезных материалов по Django
 
-# Документация
+# Документация / справочники
 
 :us: https://docs.djangoproject.com/en/ - официальная документация Django
 
@@ -10,6 +10,8 @@
 :ru: https://runebook.dev/ru/docs/django/ - тоже самое, что и предыдущее, так же запаздывает по версиям
 
 :us: https://devdocs.io/django/ - копия документации, но с удобным поиском
+
+:ru: https://proglike.ru/directory/django
 
 
 # Книги
@@ -54,11 +56,6 @@
 :us: https://learndjango.com/tutorials/ - много туториалов на различные кейсы
 
 :ru: https://proproprogs.ru/django - курс от proproprogs с видео
-
-
-# Справочники
-
-:ru: https://proglike.ru/directory/django
 
 
 # Видео
