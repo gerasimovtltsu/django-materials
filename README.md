@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/
 
 # Книги
 https://github.com/YeasirArafatRatul/DjangoBooks
+
 [en] https://djangobook.com/
 
 
