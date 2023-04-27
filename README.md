@@ -51,6 +51,8 @@
 
 [ru] Курс Django от selfedu - https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F
 
+[ru] Технострим: Веб-технологии. Разработка на Django [Mail ru] - https://www.youtube.com/playlist?list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a
+
 ## Про ORM
 
 [ru] Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
