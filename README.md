@@ -17,6 +17,8 @@
 
 [en] https://djangobook.com/
 
+[en] https://books.agiliq.com/projects/django-orm-cookbook/en/latest/ - Django ORM Cookbook
+
 
 # Статьи
 [ru] https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
