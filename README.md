@@ -1,2 +1,2 @@
 # Django Materials
-# List of useful materials on the Django framework
+# Список полезных материалов по Django
