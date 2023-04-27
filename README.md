@@ -9,10 +9,11 @@ https://docs.djangoproject.com/en/
 
 # Книги
 https://github.com/YeasirArafatRatul/DjangoBooks
+[en] https://djangobook.com/
 
 
 # Статьи
-https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
+[ru] https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
 
 
 
@@ -21,4 +22,4 @@ https://github.com/originalankur/awesome-django-admin - пакеты для мо
 
 
 # Разное
-https://habr.com/ru/companies/vk/articles/328352/ - 10 основных ошибок, совершаемых Django-разработчиками
+[ru] https://habr.com/ru/companies/vk/articles/328352/ - 10 основных ошибок, совершаемых Django-разработчиками
