@@ -11,7 +11,7 @@
 
 :us: https://devdocs.io/django/ - копия документации, но с удобным поиском
 
-:ru: https://proglike.ru/directory/django
+:ru: https://proglike.ru/directory/django - справочник по Django
 
 
 # Книги
