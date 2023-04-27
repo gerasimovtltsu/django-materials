@@ -33,6 +33,8 @@
 
 [ru] https://python-scripts.com/category/django-beginners - Django для начинающих с примерами
 
+[ru] https://webdevblog.ru/nastrojka-django-settings-luchshie-praktiki/ - Настройка Django Settings
+
 
 # Курсы
 [ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
