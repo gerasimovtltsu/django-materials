@@ -18,11 +18,11 @@ https://github.com/YeasirArafatRatul/DjangoBooks
 
 
 # Видео
-[ru] https://www.youtube.com/watch?&v=BQQrR0_UVsE - Структура проекта, urls, views, как создать html-страницу
+[ru] Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
 
-[ru] https://www.youtube.com/watch?&v=-kvoStX713Q - Модель, Django-админка, сохранение данных в БД
+[ru] Модель, Django-админка, сохранение данных в БД - https://www.youtube.com/watch?&v=-kvoStX713Q
 
-[ru] https://www.youtube.com/watch?&v=DBU0vQkiJgA - Настройка админки в Django + немного о моделях
+[ru] Настройка админки в Django + немного о моделях - https://www.youtube.com/watch?&v=DBU0vQkiJgA
 
 [ru] Верстка страницы, HTML и Bootstrap - https://www.youtube.com/watch?v=ZkICZB6STnM
 
@@ -37,6 +37,12 @@ https://github.com/YeasirArafatRatul/DjangoBooks
 [ru] Запуск на Ubuntu ч. 2 - https://www.youtube.com/watch?v=ln6wVQ2a8no
 
 [ru] Курс Django от selfedu - https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F
+
+## Про ORM
+
+[ru] Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
+
+
 
 
 
