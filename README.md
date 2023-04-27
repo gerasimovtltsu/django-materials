@@ -36,6 +36,8 @@ https://github.com/YeasirArafatRatul/DjangoBooks
 
 [ru] Запуск на Ubuntu ч. 2 - https://www.youtube.com/watch?v=ln6wVQ2a8no
 
+[ru] Курс Django от selfedu - https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F
+
 
 
 
