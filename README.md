@@ -47,7 +47,9 @@
 
 [ru] https://developer.mozilla.org/ru/docs/Learn/Server-side/Django - курс от Mozilla
 
-[en] https://learndjango.com/tutorials/ - много туториалов на различные кейсы 
+[en] https://learndjango.com/tutorials/ - много туториалов на различные кейсы
+
+[ru] https://proproprogs.ru/django - курс от proproprogs с видео
 
 
 # Справочники
