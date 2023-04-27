@@ -37,6 +37,8 @@
 
 [ru] https://evileg.com/ru/knowledge/django/ - обновляемый курс от evileg (многие материалы 5-6 летней давности, но до сих пор часть из них актуальна)
 
+[en] https://www.w3schools.com/django/index.php - курс от w3schools с примерами
+
 
 # Видео
 [ru] Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
