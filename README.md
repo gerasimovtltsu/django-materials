@@ -28,6 +28,7 @@
 
 # Курсы
 [ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
+[ru] https://tutorial.djangogirls.org/ru/ - переведенный туториал от Django Girls
 
 
 # Видео
@@ -69,3 +70,5 @@ https://github.com/originalankur/awesome-django-admin - пакеты для мо
 
 # Разное
 [ru] https://habr.com/ru/companies/vk/articles/328352/ - 10 основных ошибок, совершаемых Django-разработчиками
+[en] https://replit.com/ - онлайн IDE с возможность запуска Django, консолью и установкой Python пакетов
+
