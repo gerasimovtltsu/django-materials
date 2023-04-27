@@ -42,8 +42,9 @@ https://github.com/YeasirArafatRatul/DjangoBooks
 
 [ru] Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
 
+[en] Making smarter queries with advanced ORM resources - https://www.youtube.com/watch?v=eUM3b2q27pI
 
-
+[en] I Didn't Know Querysets Could do That by Charlie Guo - https://www.youtube.com/watch?v=5y7vU52jOiQ
 
 
 
