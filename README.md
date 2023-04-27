@@ -39,6 +39,8 @@
 
 [en] https://www.w3schools.com/django/index.php - курс от w3schools с примерами
 
+[ru] https://developer.mozilla.org/ru/docs/Learn/Server-side/Django - курс от Mozilla
+
 
 # Видео
 [ru] Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
