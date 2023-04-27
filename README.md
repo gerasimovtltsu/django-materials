@@ -71,5 +71,5 @@ https://github.com/originalankur/awesome-django-admin - пакеты для мо
 # Разное
 [ru] https://habr.com/ru/companies/vk/articles/328352/ - 10 основных ошибок, совершаемых Django-разработчиками
 
-[en] https://replit.com/ - онлайн IDE с возможность запуска Django, консолью и установкой Python пакетов
+[en] https://replit.com/ - онлайн IDE с возможностью запуска Django, консолью и установкой Python пакетов
 
