@@ -29,6 +29,8 @@
 
 [ru] https://pythonclass.ru/django/ - самоучитель (базовый уровень)
 
+[ru] https://python-scripts.com/category/django-beginners - Django для начинающих с примерами
+
 
 # Курсы
 [ru] https://metanit.com/python/django/ - курс по Django на русском языке с примерами
