@@ -103,11 +103,11 @@
 # Пакеты
 :us: https://github.com/originalankur/awesome-django-admin - пакеты для модернизации админ панели
 
-[en] https://github.com/shahraizali/awesome-django - подборка пакетов Django для различных задач
+:us: https://github.com/shahraizali/awesome-django - подборка пакетов Django для различных задач
 
-[en] https://djangopackages.org/ - Репозиторий готовых пакетов / приложений для Django
+:us: https://djangopackages.org/ - Репозиторий готовых пакетов / приложений для Django
 
-[en] https://docs.sentry.io/platforms/python/guides/django/ - Sentry SDK. Отлавливает ошибки в проекте и показывает (нормально) где она и в чем проблема
+:us: https://docs.sentry.io/platforms/python/guides/django/ - Sentry SDK. Отлавливает ошибки в проекте и показывает (нормально) где она и в чем проблема
 
 
 # Разное
