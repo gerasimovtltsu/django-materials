@@ -88,3 +88,4 @@
 
 [en] https://replit.com/ - онлайн IDE с возможностью запуска Django, консолью и установкой Python пакетов
 
+[en] https://github.com/gerasimovtltsu/django-test-app - Пример тестового приложения на Django
