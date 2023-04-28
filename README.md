@@ -106,6 +106,8 @@
 
 :us: Mosh's Python Django Tutorial for Beginners - https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
+:us: Python Django Explained In 8 Minutes - https://www.youtube.com/watch?v=0sMtoedWaf0
+
 ## Про ORM
 
 :ru: Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
