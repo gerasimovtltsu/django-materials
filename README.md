@@ -56,6 +56,8 @@
 
 :us: https://medium.com/tag/django - огромное количество статей по Django
 
+:us: https://learndjango.com/tutorials/hello-world-5-different-ways - Django Hello, World 5 Different Ways
+
 
 # Курсы
 :ru: https://metanit.com/python/django/ - курс по Django на русском языке с примерами
