@@ -127,4 +127,6 @@
 
 :us: https://github.com/sh3b/django-test-app - Пример тестового приложения на Django
 
+:us: https://github.com/HHHMHA/django-roadmap - Django Roadmap
+
 
