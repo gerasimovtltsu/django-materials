@@ -15,6 +15,10 @@
 
 :us: https://github.com/gerasimovtltsu/django-materials/blob/main/beginners_python_cheat_sheet_pcc_django.pdf - Django Cheatsheet
 
+:ru: https://lectureswww.readthedocs.io/6.www.sync/2.codding/3.templates/jinja2.html - Jinja2 (простая дока на русском)
+
+:en: https://jinja.palletsprojects.com/en/3.1.x/ - официальная документация по шаблонизатору Jinja 
+
 
 # Книги
 
