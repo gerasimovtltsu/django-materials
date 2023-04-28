@@ -129,4 +129,4 @@
 
 :us: https://github.com/HHHMHA/django-roadmap - Django Roadmap
 
-
+:us: https://www.djangosites.org/with-source/ - примеры веб-приложений на Django с исходниками
