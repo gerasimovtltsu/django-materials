@@ -13,6 +13,8 @@
 
 :ru: https://proglike.ru/directory/django - справочник по Django
 
+:us: https://github.com/gerasimovtltsu/django-materials/blob/main/beginners_python_cheat_sheet_pcc_django.pdf - Django Cheatsheet
+
 
 # Книги
 :us: https://github.com/YeasirArafatRatul/DjangoBooks
@@ -113,3 +115,5 @@
 :us: https://replit.com/ - онлайн IDE с возможностью запуска Django, консолью и установкой Python пакетов
 
 :us: https://github.com/sh3b/django-test-app - Пример тестового приложения на Django
+
+
