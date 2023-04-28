@@ -21,8 +21,6 @@
 
 :us: https://github.com/gerasimovtltsu/django-materials/blob/main/jinja_cheatsheet.pdf - Jinja Cheatsheet
 
-:us: https://www.javatpoint.com/django-tutorial - Туториал от JavaPoint
-
 
 # Книги
 
@@ -75,6 +73,8 @@
 :ru: https://proproprogs.ru/django - курс от proproprogs с видео
 
 :us: http://django-marcador.keimlink.de/en/ - туториал по Django 1.8, но подробно разбирается создание целого проекта
+
+:us: https://www.javatpoint.com/django-tutorial - курс от JavaPoint
 
 
 # Видео
