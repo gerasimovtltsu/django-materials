@@ -104,6 +104,8 @@
 
 :ru: Django School - https://www.youtube.com/@DjangoSchool/videos
 
+:us: Python Django Tutorial for Beginners - https://www.youtube.com/watch?v=rHux0gMZ3Eg
+
 ## Про ORM
 
 :ru: Олег Чуркин (Rambler&Co) - Django: правильно готовим ORM - https://www.youtube.com/watch?v=nYzJsR7mW1s
