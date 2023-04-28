@@ -25,6 +25,8 @@
 
 :us: https://maktabkhooneh.org/mag/wp-content/uploads/2022/04/Django-for-Professionals-Production-websites-with-Python-Django-by-William-S.-Vincent-WelcomeToCode.pdf - Django for Professionals
 
+:us: https://maktabkhooneh.org/mag/wp-content/uploads/2022/04/Django-for-Beginners-Build-websites-with-Python-and-Django-3.1-by-William-S.-Vincent-WelcomeToCode.pdf - Django for beginners
+
 
 # Статьи
 :ru: https://dev-gang.ru/article/signaly-v-django-v2xrwoluji/ - Сигналы в Django
