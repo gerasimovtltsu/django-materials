@@ -21,6 +21,8 @@
 
 :us: https://github.com/gerasimovtltsu/django-materials/blob/main/jinja_cheatsheet.pdf - Jinja Cheatsheet
 
+:us: https://www.javatpoint.com/django-tutorial - Туториал от JavaPoint
+
 
 # Книги
 
