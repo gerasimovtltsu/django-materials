@@ -17,7 +17,9 @@
 
 :ru: https://lectureswww.readthedocs.io/6.www.sync/2.codding/3.templates/jinja2.html - Jinja2 (простая дока на русском)
 
-:us: https://jinja.palletsprojects.com/en/3.1.x/ - официальная документация по шаблонизатору Jinja 
+:us: https://jinja.palletsprojects.com/en/3.1.x/ - официальная документация по шаблонизатору Jinja
+
+:us: https://github.com/gerasimovtltsu/django-materials/blob/main/jinja_cheatsheet.pdf - Jinja Cheatsheet
 
 
 # Книги
