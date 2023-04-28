@@ -18,7 +18,7 @@
 
 # Книги
 
-:globe_with_meridians: https://disk.yandex.ru/d/n60MA3bXKwzaVQ - Яндекс диск с материалами по Django
+:globe_with_meridians: https://disk.yandex.ru/d/n60MA3bXKwzaVQ - Яндекс диск с материалами по Python / Django
 
 :us: https://github.com/YeasirArafatRatul/DjangoBooks
 
