@@ -76,6 +76,8 @@
 
 :us: https://www.javatpoint.com/django-tutorial - курс от JavaPoint
 
+:ru: https://dzen.ru/a/YHVR4qutlQ_6MhHk - Конспект ознакомительного курса Django в Яндекс.Практикум
+
 
 # Видео
 :ru: Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
