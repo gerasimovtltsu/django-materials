@@ -72,6 +72,8 @@
 
 :ru: https://proproprogs.ru/django - курс от proproprogs с видео
 
+:en: http://django-marcador.keimlink.de/en/ - туториал по Django 1.8, но подробно разбирается создание целого проекта
+
 
 # Видео
 :ru: Структура проекта, urls, views, как создать html-страницу - https://www.youtube.com/watch?&v=BQQrR0_UVsE
